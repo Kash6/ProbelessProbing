@@ -2,7 +2,7 @@
 🧠 Probe-less Probing of BERT’s Layer-Wise Linguistic Knowledge
 This project explores a novel approach called Probe-less Probing to analyze how different layers of BERT encode linguistic information. Rather than relying on external classifiers, we use masked word prediction as a behavioral signal to probe BERT’s internal understanding.
 
-🔍 What We Did
+🔍 What We Did /n
 Reimplemented the study using the STREUSLE 4.4 dataset, which includes rich lexical-semantic and syntactic annotations.
 
 Ran layer-wise masked token prediction using BERT-base (12 layers).
